@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/cart.png</file>
+        <file>ico/first.png</file>
+        <file>ico/form.png</file>
+        <file>ico/guke.png</file>
+        <file>ico/mima.png</file>
+        <file>ico/shop.png</file>
+        <file>ico/user.png</file>
+        <file>ico/shoe.png</file>
+        <file>ico/shangjia.png</file>
+        <file>ico/pb.jpg</file>
+        <file>ico/pb1.jpg</file>
+        <file>ico/pb2.jpg</file>
+        <file>ico/first.jpg</file>
+        <file>ico/go.jpg</file>
+        <file>ico/delete.jpg</file>
+        <file>ico/insert.jpg</file>
+        <file>ico/save.jpg</file>
+        <file>ico/select.jpg</file>
+        <file>ico/update.jpg</file>
+        <file>ico/zhuxiao.jpg</file>
+    </qresource>
+</RCC>
